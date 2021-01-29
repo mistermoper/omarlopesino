@@ -3,14 +3,15 @@ third_party_settings:
     module_link: true
 features:
   node_user_picture: false
-  comment_user_picture: true
-  comment_user_verification: true
+  comment_user_picture: false
+  comment_user_verification: false
   favicon: true
 logo:
   use_default: false
   path: ''
 favicon:
-  use_default: true
+  use_default: false
+  path: ''
 mobile_menu_all_widths: 0
 site_branding_bg_color: white
 _core:
