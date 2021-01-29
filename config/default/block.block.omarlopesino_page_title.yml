@@ -1,0 +1,20 @@
+uuid: 4a5c4d6b-c451-42f7-92d4-1e39292ce358
+langcode: en
+status: true
+dependencies:
+  theme:
+    - omarlopesino
+_core:
+  default_config_hash: WImvmaBdDpwIqobqbDWebBnyxssRvrNEnZSQbOsvOe4
+id: omarlopesino_page_title
+theme: omarlopesino
+region: sidebar_first
+weight: -5
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }

@@ -1,0 +1,7 @@
+name: Omar Lopesino
+type: theme
+'base theme': olivero
+description: 'Theme used in omarlopesino.me. Used only to change the header colors.'
+core_version_requirement: ^9.2
+libraries:
+  - omarlopesino/header-styling

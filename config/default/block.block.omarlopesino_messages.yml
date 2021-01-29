@@ -1,0 +1,22 @@
+uuid: f6b36a20-b81b-4b5f-9b9d-df7aab8a9d34
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - omarlopesino
+_core:
+  default_config_hash: KfyaTPRJEcAyy2e5AxEfWQnuHcn4WrfvcWek7lSmHZQ
+id: omarlopesino_messages
+theme: omarlopesino
+region: highlighted
+weight: -5
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

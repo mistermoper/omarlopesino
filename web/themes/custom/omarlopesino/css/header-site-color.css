@@ -1,0 +1,21 @@
+
+/**
+ * @file
+ * Site header colors.
+ */
+
+body .header__left {
+  background-color: #005700;
+}
+
+body .site-branding {
+  background-image: linear-gradient(160deg,#005700 0%,green 78.66%);
+}
+
+.site-branding__logo {
+  color: transparent;
+}
+
+body .site-branding .site-branding__text, body {
+  color: #ffffff;
+}

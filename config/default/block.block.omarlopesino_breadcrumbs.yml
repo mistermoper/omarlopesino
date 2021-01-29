@@ -1,0 +1,22 @@
+uuid: 13b96d7d-3d52-46de-b95f-2644c6fbe72c
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - omarlopesino
+_core:
+  default_config_hash: XMsRP1YhWAcorbrFWZglMYJ_SgWHyF3fyCh5vDXaUN4
+id: omarlopesino_breadcrumbs
+theme: omarlopesino
+region: breadcrumb
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  provider: system
+  label_display: '0'
+visibility: {  }

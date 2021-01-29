@@ -1,0 +1,22 @@
+uuid: 99c715b7-f6b2-4153-9deb-b1a3d0884d40
+langcode: en
+status: true
+dependencies:
+  theme:
+    - omarlopesino
+_core:
+  default_config_hash: V7GM1m6Qh500cQE7LWZV8lRuwLqXdjR0S2kSk8pEv6g
+id: omarlopesino_secondary_local_tasks
+theme: omarlopesino
+region: highlighted
+weight: -2
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Secondary tabs'
+  provider: core
+  label_display: '0'
+  primary: false
+  secondary: true
+visibility: {  }

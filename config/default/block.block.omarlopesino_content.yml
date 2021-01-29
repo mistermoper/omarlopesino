@@ -1,0 +1,22 @@
+uuid: b51fb0d2-172c-4202-a0e7-2d9e334034a5
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - omarlopesino
+_core:
+  default_config_hash: BL6Gcw5Us0zai1ADadlNYLxlEblMedc_3C3lF0PjtCE
+id: omarlopesino_content
+theme: omarlopesino
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

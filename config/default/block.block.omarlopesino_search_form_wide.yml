@@ -1,0 +1,23 @@
+uuid: f308ce02-c580-4af0-a407-236388912e5e
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - omarlopesino
+_core:
+  default_config_hash: kF9mVmsseaqxC_a3r0oTNT2MOdiEdr9-6lMUfIa18eI
+id: omarlopesino_search_form_wide
+theme: omarlopesino
+region: secondary_menu
+weight: -5
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (wide)'
+  provider: search
+  label_display: '0'
+  page_id: ''
+visibility: {  }
