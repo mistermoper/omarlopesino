@@ -1,0 +1,16 @@
+uuid: e7bc3514-6e34-4f3f-bc7e-e3710e6c2837
+langcode: en
+status: false
+dependencies: {  }
+id: local
+label: local
+description: ''
+folder: ''
+module: {  }
+theme: {  }
+blacklist:
+  - environment_indicator.settings
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
