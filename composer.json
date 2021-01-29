@@ -50,7 +50,7 @@
         "drupal/admin_toolbar": "^2.4",
         "drupal/config_split": "^1.7",
         "drupal/core-composer-scaffold": "^9",
-        "drupal/core-recommended": "^9",
+        "drupal/core-recommended": "~9.2",
         "drupal/crop": "^2.1",
         "drupal/ctools": "^3.4",
         "drupal/environment_indicator": "^4.0",
