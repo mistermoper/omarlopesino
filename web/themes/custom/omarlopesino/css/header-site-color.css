@@ -15,7 +15,3 @@ body .site-branding {
 .site-branding__logo {
   color: transparent;
 }
-
-body .site-branding .site-branding__text, body {
-  color: #ffffff;
-}
