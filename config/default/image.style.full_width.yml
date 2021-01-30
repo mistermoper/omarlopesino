@@ -6,8 +6,8 @@ dependencies:
     - crop.type.16_9
   module:
     - crop
-name: '16_9'
-label: '16:9'
+name: full_width
+label: full_width
 effects:
   67771571-a34c-419b-b039-309b94319ec5:
     uuid: 67771571-a34c-419b-b039-309b94319ec5
@@ -15,3 +15,11 @@ effects:
     weight: 2
     data:
       crop_type: '16_9'
+  ed0f1978-80ef-4f1e-b276-e717136be45c:
+    uuid: ed0f1978-80ef-4f1e-b276-e717136be45c
+    id: image_scale
+    weight: 2
+    data:
+      width: 1200
+      height: null
+      upscale: false

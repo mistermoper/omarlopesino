@@ -6,8 +6,8 @@ dependencies:
     - crop.type.1_1
   module:
     - crop
-name: '1_1'
-label: '1:1'
+name: square
+label: square
 effects:
   b5ca79e1-d385-4997-abcc-9ce37d88a4a7:
     uuid: b5ca79e1-d385-4997-abcc-9ce37d88a4a7
@@ -15,3 +15,11 @@ effects:
     weight: 2
     data:
       crop_type: '1_1'
+  c9c3c46b-2b9a-4db2-86ae-da45eeac152d:
+    uuid: c9c3c46b-2b9a-4db2-86ae-da45eeac152d
+    id: image_scale
+    weight: 2
+    data:
+      width: 600
+      height: 600
+      upscale: false
