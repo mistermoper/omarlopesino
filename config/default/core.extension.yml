@@ -30,6 +30,7 @@ module:
   history: 0
   image: 0
   image_widget_crop: 0
+  language: 0
   link: 0
   media: 0
   media_library: 0
@@ -56,6 +57,7 @@ module:
   views_ui: 0
   webp: 0
   pathauto: 1
+  content_translation: 10
   views: 10
   minimal: 1000
 theme:

@@ -44,3 +44,4 @@ hidden:
   field_article_category: true
   field_image: true
   field_tags: true
+  langcode: true
