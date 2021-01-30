@@ -69,6 +69,7 @@
         "drupal/styleguide": "^2.0@beta",
         "drupal/ultimate_cron": "^2.0@alpha",
         "drupal/webform": "^6.0@alpha",
+        "drupal/webp": "^1.0@beta",
         "drush/drush": "^10.3"
     },
     "require-dev": {
